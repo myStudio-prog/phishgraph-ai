@@ -1,2 +1,2 @@
 # phishgraph-ai
-AI-powered phishing intelligence and investigation platform using Python and Agentic AI.  Copy
+An AI-powered platform for detecting, connecting, and investigating phishing campaigns using Python, graph analytics, and AI agents.
